@@ -1,0 +1,20 @@
+[
+    {
+      "codProduto": "2559",
+      "tamanho": "M",
+      "cor": "Green",
+      "quantidade": "3"
+    },
+    {
+      "codProduto": "3680",
+      "tamanho": "S",
+      "cor": "Blue",
+      "quantidade": "4"
+    },
+    {
+      "codProduto": "3374",
+      "tamanho": "XS",
+      "cor": "Red",
+      "quantidade": "2"
+    }
+]

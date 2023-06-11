@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Juliano",
+    "sobrenome": "Ramos",
+    "empresa": "PROCERGS",
+    "pais": "Brasil",
+    "endereco": "Rua Cristina Somariva",
+    "numero": "282",
+    "cidade": "Viamão",
+    "estado": "Rio Grande do Sul",
+    "cep": "94475520",
+    "telefone": "51991210284",
+    "email": "jpachecoramos@gmail.com",
+    "mensagemOpcional": "Presente de Natal"
+  },
+  {
+    "nome": "Rita",
+    "sobrenome": "Michelon",
+    "empresa": "VOLAR",
+    "pais": "Brasil",
+    "endereco": "Rua Cristina Somariva",
+    "numero": "282",
+    "cidade": "Viamão",
+    "estado": "Rio Grande do Sul",
+    "cep": "94475520",
+    "telefone": "51999999999",
+    "email": "ritamichelon@gmail.com",
+    "mensagemOpcional": "Roupas legais"
+  }
+]
